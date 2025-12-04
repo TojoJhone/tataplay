@@ -1,35 +1,12 @@
-Request
-GET https://fifaxbd.site/PLAYLIST/tata.php HTTP/1.1
-User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
-accept: */*
-Cache-Control: no-cache, no-store
-Host: fifaxbd.site
-Connection: Keep-Alive
-Accept-Encoding: gzip
-
-
-
---------------------------------------------------------
-
-Response
-HTTP/1.1 200
-Date: Wed, 19 Nov 2025 08:45:03 GMT
-Content-Type: text/html; charset=UTF-8
-Connection: keep-alive
-x-powered-by: PHP/8.0.30
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Zblh4QbeQBB2p%2FhtDZWywRShIB9oOir3uPRPlHoUDqlpupehg9lhCygny9PPtZ6XzYEDj6BHAKIbgYKANvKsgi6Tn59aC999ikK9gg%3D%3D"}]}
-vary: Accept-Encoding
-Server: cloudflare
-alt-svc: h3=":443"; ma=86400
-x-turbo-charged-by: LiteSpeed
-cf-cache-status: DYNAMIC
-Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Content-Encoding: gzip
-CF-RAY: 9a0e6dd85e6b5de8-DAC
-Content-Length: 33124
-
-https://fifabdm.xyz/#EXTM3U
-
+#EXTM3U
+#EXTINF:-1 tvg-id="167590" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title=" CRICKET",T-SPORTS
+https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167590|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="167582" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title=" CRICKET",IN | Willow Xtra
+https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167582|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="167583" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title=" CRICKET",IN: Willow Cricket HD
+https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167583|User-Agent=RANAPK
+#EXTINF:-1 tvg-id="167581" tvg-name="IN | Astro Cricket HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title=" CRICKET",IN | Astro Cricket HD
+https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167581|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="167567" tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title=" CRICKET",PK: PTV SPORTS
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167567|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="217968" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title=" CRICKET",PK: PTV SPORTS HD
@@ -72,18 +49,12 @@ https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167578|User-Agent=RANAPK
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167579|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="382205" tvg-name="IN: Sports 18 (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Sports18_logo.svg" group-title=" CRICKET",IN: Sports 18 (4K)
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=382205|User-Agent=RANAPK
-#EXTINF:-1 tvg-id="167581" tvg-name="IN | Astro Cricket HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title=" CRICKET",IN | Astro Cricket HD
-https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167581|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="167592" tvg-name="SuperSport Cricket" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title=" CRICKET",SuperSport Cricket
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167592|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="167593" tvg-name="AU: FOX CRICKET 501" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title=" CRICKET",AU: FOX CRICKET 501
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167593|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="167594" tvg-name="UK: Sky Sports Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg" group-title=" CRICKET",UK: Sky Sports Cricket
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167594|User-Agent=RANAPK
-#EXTINF:-1 tvg-id="167582" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title=" CRICKET",IN | Willow Xtra
-https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167582|User-Agent=RANAPK
-#EXTINF:-1 tvg-id="167583" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title=" CRICKET",IN: Willow Cricket HD
-https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167583|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="167584" tvg-name="BS | beIN SPORT CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png" group-title=" CRICKET",BS | beIN SPORT CRICKET
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167584|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="167585" tvg-name="IN: EUROSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title=" CRICKET",IN: EUROSPORT HD
@@ -92,8 +63,6 @@ https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167585|User-Agent=RANAPK
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167586|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="167588" tvg-name="IN: DD Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg" group-title=" CRICKET",IN: DD Sports
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167588|User-Agent=RANAPK
-#EXTINF:-1 tvg-id="167590" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title=" CRICKET",T-SPORTS
-https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167590|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="167591" tvg-name="AFG: RTA SPORTS" tvg-logo="https://rtasportswear.com/wp-content/uploads/2020/03/logo-copy-300x123.png" group-title=" CRICKET",AFG: RTA SPORTS
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167591|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="206297" tvg-name="IND: jio Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" group-title=" CRICKET",IND: jio Cricket

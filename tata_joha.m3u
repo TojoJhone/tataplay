@@ -1,4 +1,35 @@
-#EXTM3U
+Request
+GET https://fifaxbd.site/PLAYLIST/tata.php HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0
+accept: */*
+Cache-Control: no-cache, no-store
+Host: fifaxbd.site
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
+
+--------------------------------------------------------
+
+Response
+HTTP/1.1 200
+Date: Wed, 19 Nov 2025 08:45:03 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+x-powered-by: PHP/8.0.30
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Zblh4QbeQBB2p%2FhtDZWywRShIB9oOir3uPRPlHoUDqlpupehg9lhCygny9PPtZ6XzYEDj6BHAKIbgYKANvKsgi6Tn59aC999ikK9gg%3D%3D"}]}
+vary: Accept-Encoding
+Server: cloudflare
+alt-svc: h3=":443"; ma=86400
+x-turbo-charged-by: LiteSpeed
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9a0e6dd85e6b5de8-DAC
+Content-Length: 33124
+
+https://fifabdm.xyz/#EXTM3U
+
 #EXTINF:-1 tvg-id="167590" tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title=" CRICKET",T-SPORTS
 https://fifabdm.xyz/OPPLEX/TATA/play.php?id=167590|User-Agent=RANAPK
 #EXTINF:-1 tvg-id="167582" tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title=" CRICKET",IN | Willow Xtra
